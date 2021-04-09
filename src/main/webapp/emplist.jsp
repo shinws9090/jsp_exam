@@ -7,21 +7,21 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<link rel= "stylesheet" href="css/style.css">
+<link rel= "stylesheet" href="css/emplist.css">
 </head>
 <body>
 <div>
 	<h2>사원목록</h2>
-	<table border="1">
+	<table>
 		<thead>
 			<tr>
-				<td>사원번호</td>
-				<td>사원명</td>
-				<td>직책</td>
-				<td>직급상사</td>
-				<td>급여</td>
-				<td>부서</td>
-				<td>입사일</td>
+				<th>사원번호</th>
+				<th>사원명</th>
+				<th>직책</th>
+				<th>직급상사</th>
+				<th>급여</th>
+				<th>부서</th>
+				<th>입사일</th>
 			</tr>
 		</thead>
 		<tbody>
